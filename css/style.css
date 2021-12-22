@@ -2,4 +2,18 @@
     width: 300px;
 }
 
-.skill-image {}
+.custom-carousel {
+    max-width: 1000px;
+}
+
+body {
+    display: block;
+    min-height: 100vh;
+}
+
+.container-contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 80vh;
+}
