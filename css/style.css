@@ -41,8 +41,9 @@ body {
 }
 
 .contact-titel {
-    padding-top: 2vh;
+    padding-top: 3vh;
     font-size: 80px;
+    padding-bottom: 9vh;
 }
 
 .callout {
